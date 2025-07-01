@@ -1,0 +1,26 @@
+# MongoDB Connection
+MONGO_URI=mongodb+srv://futurelift_admin:FutureLift%40hit@futureliftdb.0jhdaqa.mongodb.net/?retryWrites=true&w=majority&appName=FutureLiftDB
+
+# JWT Secret for Authentication
+JWT_SECRET=futureliftjobportalsecret
+
+# Server Port
+PORT=5001
+
+# Cloudinary Configuration
+CLOUDINARY_CLOUD_NAME=dlpgsnezh
+CLOUDINARY_API_KEY=912588377895983
+CLOUDINARY_API_SECRET=CoIzL6jZmXbW4_kS3BHeSBqfXyg
+
+# Admin Registration
+# Default admin access code used for first admin setup
+DEFAULT_ADMIN_ACCESS_CODE=FUTURELIFT2024
+
+# Email Configuration (optional - for password reset, notifications)
+# EMAIL_SERVICE=gmail
+# EMAIL_USER=your-email@gmail.com
+# EMAIL_PASSWORD=your-app-password
+# EMAIL_FROM=FutureLift Job Portal <your-email@gmail.com>
+
+# Application URL (for email links, optional)
+# APP_URL=http://localhost:3000 
